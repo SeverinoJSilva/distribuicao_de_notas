@@ -4,4 +4,4 @@ Código em Python para Distribuir de forma aleatória um valor por uma quantidad
 ## Problema:
 Um usuário de um sistema solicitou ajuda para automatizar a seguinte rotina:
 A partir de um valor em reais e de uma quantidade específica de notas,
-conseguir fazer a distribuição desse valor em cédulas 2 até 200 reais a partir de um número exato de notas.
+conseguir fazer a distribuição desse valor em cédulas 2 até 200 reais.
